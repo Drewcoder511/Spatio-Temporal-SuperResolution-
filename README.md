@@ -1,6 +1,10 @@
 # Spatio-Temporal-SuperResolution-
 GNNs with temporal data
 
+介绍任务
+介绍应用
+介绍数据
+
 1. Exp1
 Fixed sliding window on temporal data, a GCN is applied on each time frame.
 
